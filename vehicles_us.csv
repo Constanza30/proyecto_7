@@ -1,0 +1,598 @@
+price,model_year,model,condition,cylinders,fuel,odometer,transmission,type,paint_color,is_4wd,date_posted,days_listed
+9400,2011.0,bmw x5,good,6,gas,145000.0,automatic,SUV,,1.0,2018-06-23,19
+25500,,ford f-150,good,6,gas,88705.0,automatic,pickup,white,1.0,2018-10-19,50
+5500,2013.0,hyundai sonata,like new,4,gas,110000.0,automatic,sedan,red,,2019-02-07,79
+1500,2003.0,ford f-150,fair,8,gas,,automatic,pickup,,,2019-03-22,9
+14900,2017.0,chrysler 200,excellent,4,gas,80903.0,automatic,sedan,black,,2019-04-02,28
+14990,2014.0,chrysler 300,excellent,6,gas,57954.0,automatic,sedan,black,1.0,2018-06-20,15
+12990,2015.0,toyota camry,excellent,4,gas,79212.0,automatic,sedan,white,,2018-12-27,73
+15990,2013.0,honda pilot,excellent,6,gas,109473.0,automatic,SUV,black,1.0,2019-01-07,68
+11500,2012.0,kia sorento,excellent,4,gas,104174.0,automatic,SUV,,1.0,2018-07-16,19
+9200,2008.0,honda pilot,excellent,,gas,147191.0,automatic,SUV,blue,1.0,2019-02-15,17
+19500,2011.0,chevrolet silverado 1500,excellent,8,gas,128413.0,automatic,pickup,black,1.0,2018-09-17,38
+8990,2012.0,honda accord,excellent,4,gas,111142.0,automatic,sedan,grey,,2019-03-28,29
+18990,2012.0,ram 1500,excellent,8,gas,140742.0,automatic,pickup,,1.0,2019-04-02,37
+16500,2018.0,hyundai sonata,excellent,4,gas,22104.0,automatic,sedan,silver,,2019-01-14,29
+12990,2009.0,gmc yukon,excellent,8,gas,132285.0,automatic,SUV,black,1.0,2019-01-31,24
+17990,2013.0,ram 1500,excellent,8,gas,,automatic,pickup,red,1.0,2018-05-15,111
+14990,2010.0,ram 1500,excellent,8,gas,130725.0,automatic,pickup,red,1.0,2018-12-30,13
+13990,2014.0,jeep cherokee,excellent,6,gas,100669.0,automatic,SUV,red,1.0,2018-08-16,25
+12500,2013.0,chevrolet traverse,excellent,6,gas,128325.0,automatic,SUV,white,1.0,2019-04-09,13
+13990,2018.0,hyundai elantra,excellent,4,gas,31932.0,automatic,sedan,red,,2018-08-25,27
+6990,,chevrolet tahoe,excellent,8,gas,147485.0,automatic,SUV,silver,1.0,2018-08-05,28
+5250,2007.0,toyota rav4,good,6,gas,154000.0,automatic,SUV,,,2018-08-22,8
+7500,2004.0,chevrolet silverado,like new,8,gas,180000.0,automatic,truck,red,1.0,2019-01-05,64
+7500,2004.0,jeep wrangler,good,6,gas,,automatic,SUV,red,1.0,2018-05-17,39
+3950,2009.0,chrysler 200,excellent,4,gas,,automatic,sedan,red,,2018-06-11,40
+11499,2017.0,chevrolet malibu,like new,4,gas,,automatic,sedan,,,2018-07-26,43
+8499,2014.0,ford fusion se,like new,4,gas,79523.0,automatic,sedan,red,,2018-10-25,23
+12999,2015.0,chevrolet impala,like new,6,gas,39368.0,automatic,sedan,custom,,2018-05-19,42
+29800,2012.0,chevrolet corvette,excellent,8,gas,57413.0,automatic,coupe,orange,,2018-10-22,101
+5495,2010.0,chevrolet impala,excellent,6,gas,,automatic,sedan,white,,2019-02-18,20
+5000,2009.0,jeep liberty,good,6,gas,137273.0,automatic,SUV,white,1.0,2019-02-19,14
+11999,2017.0,toyota camry le,excellent,4,gas,35721.0,automatic,sedan,,,2018-09-13,25
+9499,2015.0,nissan altima,like new,4,gas,51848.0,automatic,sedan,grey,,2018-11-12,7
+3890,2011.0,subaru outback,excellent,4,gas,300000.0,automatic,SUV,white,1.0,2018-12-25,31
+9500,2008.0,toyota highlander,good,6,gas,149799.0,automatic,SUV,,,2018-06-04,121
+14999,2015.0,dodge charger,good,6,gas,63037.0,automatic,sedan,,,2018-05-11,37
+10499,2013.0,chrysler 300,good,,gas,88042.0,automatic,sedan,,,2018-05-05,22
+7500,2005.0,toyota tacoma,good,,gas,160000.0,automatic,pickup,,,2018-07-22,44
+7999,2015.0,chrysler 200,good,4,gas,,automatic,sedan,,,2019-03-08,29
+8000,2009.0,ford f-150,good,8,gas,234000.0,automatic,truck,black,1.0,2019-03-31,1
+11499,2017.0,chevrolet equinox,like new,4,gas,54772.0,automatic,SUV,grey,1.0,2019-01-12,36
+11995,2017.0,nissan rogue,like new,4,gas,,automatic,SUV,silver,1.0,2018-09-20,21
+34900,2013.0,mercedes-benz benze sprinter 2500,excellent,6,diesel,,automatic,van,black,,2019-01-15,16
+5100,2008.0,honda cr-v,excellent,4,gas,188000.0,automatic,SUV,red,1.0,2018-11-18,10
+4500,2004.0,jeep grand cherokee,good,6,gas,168821.0,automatic,SUV,,1.0,2019-01-31,60
+2400,2001.0,toyota camry,good,4,gas,277564.0,automatic,coupe,yellow,,2018-05-27,51
+11200,2015.0,dodge charger,excellent,6,gas,90302.0,automatic,sedan,black,1.0,2018-07-19,73
+12500,2008.0,toyota 4runner,good,6,gas,141098.0,automatic,SUV,grey,,2019-03-10,35
+9500,2014.0,ford focus,excellent,4,diesel,46000.0,automatic,sedan,,,2018-10-09,24
+3200,2006.0,honda civic,excellent,4,gas,255390.0,automatic,sedan,blue,,2018-10-18,23
+6200,2006.0,ford f-150,excellent,6,gas,69698.0,automatic,truck,custom,,2018-05-03,50
+3800,2012.0,ford focus,good,4,gas,130323.0,automatic,sedan,black,,2018-11-29,261
+3300,2011.0,kia soul,good,4,gas,188963.0,manual,SUV,black,,2019-02-16,71
+10400,2012.0,chevrolet colorado,excellent,5,gas,111871.0,automatic,truck,red,1.0,2019-01-30,27
+30300,2017.0,ford f150 supercrew cab xlt,good,6,gas,30339.0,automatic,pickup,brown,1.0,2018-07-15,14
+19700,2017.0,chevrolet camaro lt coupe 2d,good,6,gas,35807.0,other,coupe,,,2018-05-16,99
+4200,2006.0,jeep grand cherokee,excellent,6,gas,,automatic,SUV,white,1.0,2018-07-01,79
+4877,2012.0,chevrolet cruze,excellent,4,gas,163261.0,automatic,sedan,white,,2019-04-18,21
+3200,2004.0,bmw x5,excellent,6,gas,,automatic,SUV,black,1.0,2019-04-09,10
+5200,2006.0,toyota highlander,good,,gas,186000.0,automatic,SUV,green,,2018-12-20,2
+13000,2005.0,ram 1500,good,8,gas,146000.0,automatic,truck,grey,1.0,2019-03-14,26
+16999,2013.0,chevrolet silverado 1500,good,8,gas,137230.0,automatic,truck,white,1.0,2018-05-29,24
+10499,2017.0,chevrolet cruze,good,4,gas,53601.0,automatic,sedan,black,,2019-01-13,48
+30000,1966.0,ford mustang,excellent,,gas,51000.0,manual,convertible,red,,2019-01-23,17
+15999,2017.0,chevrolet cruze,good,4,gas,17498.0,automatic,sedan,black,,2018-11-07,54
+12800,,ford f-150,excellent,6,gas,108500.0,automatic,pickup,white,,2018-09-23,15
+14999,2013.0,chevrolet silverado 3500hd,good,8,gas,,automatic,truck,white,1.0,2018-05-09,22
+14950,2012.0,ram 1500,excellent,8,gas,114773.0,automatic,truck,grey,1.0,2019-04-09,85
+6950,2013.0,nissan altima,excellent,4,gas,158786.0,automatic,sedan,,,2018-12-24,41
+7800,,ford f-150,like new,8,gas,97510.0,automatic,truck,white,1.0,2019-02-20,39
+5500,2006.0,honda accord,good,4,gas,,automatic,sedan,silver,,2018-11-27,15
+23300,2018.0,nissan frontier crew cab sv,good,6,gas,27493.0,other,pickup,,1.0,2018-10-13,36
+3650,,subaru impreza,excellent,,gas,74000.0,automatic,sedan,blue,1.0,2018-08-07,60
+1900,1994.0,jeep grand cherokee laredo,good,6,gas,207.0,automatic,SUV,grey,1.0,2018-07-27,9
+9950,2008.0,toyota 4runner,excellent,6,gas,,automatic,SUV,silver,1.0,2018-06-08,53
+6950,2005.0,chevrolet tahoe,excellent,,gas,186021.0,automatic,SUV,,1.0,2018-10-30,3
+3000,2010.0,nissan versa,like new,4,gas,200412.0,automatic,hatchback,silver,,2018-09-23,33
+4200,2012.0,ford focus,like new,4,gas,144273.0,automatic,sedan,silver,,2018-06-11,19
+23800,2019.0,nissan frontier crew cab sv,good,6,gas,10899.0,other,pickup,silver,1.0,2019-02-28,30
+16500,2012.0,ford f-250 sd,good,8,gas,123262.0,automatic,truck,silver,1.0,2018-09-25,47
+26900,2014.0,chevrolet silverado 1500 crew,good,8,gas,68607.0,automatic,pickup,,1.0,2018-09-08,10
+5900,2000.0,ford f250 super duty,good,8,diesel,202752.0,automatic,pickup,red,,2018-07-08,32
+9950,2014.0,dodge charger,good,8,gas,102878.0,automatic,sedan,white,,2018-06-02,28
+11950,2008.0,chevrolet silverado,good,8,gas,170000.0,automatic,truck,black,1.0,2019-03-13,38
+4995,,hyundai elantra,like new,4,gas,151223.0,automatic,sedan,custom,,2018-09-15,1
+4826,2000.0,gmc yukon,like new,8,gas,226111.0,automatic,SUV,grey,1.0,2018-06-30,14
+9599,2011.0,chevrolet camaro,good,6,gas,100680.0,manual,coupe,silver,,2018-10-26,18
+8499,2009.0,bmw x5,good,,gas,104482.0,automatic,SUV,blue,1.0,2019-03-04,52
+26000,2017.0,ford mustang gt coupe 2d,good,8,gas,,other,coupe,yellow,,2018-11-26,31
+18800,2015.0,chevrolet camaro lt coupe 2d,good,6,gas,33926.0,other,coupe,grey,,2019-01-16,152
+18000,2010.0,ram 1500,good,8,gas,50500.0,automatic,truck,white,1.0,2018-06-16,11
+2800,2010.0,chevrolet colorado,good,5,gas,200800.0,automatic,pickup,,,2018-07-24,10
+2950,2003.0,chevrolet silverado,good,8,gas,230000.0,automatic,pickup,,,2018-05-06,24
+32000,2017.0,honda pilot,like new,6,gas,32104.0,automatic,SUV,white,,2018-07-12,100
+8995,2012.0,toyota rav4,excellent,4,gas,124526.0,automatic,SUV,black,1.0,2018-12-14,24
+9995,2017.0,hyundai sonata,excellent,4,gas,105985.0,automatic,sedan,white,,2018-05-02,18
+24600,2013.0,ford mustang gt coupe 2d,good,8,gas,22474.0,other,coupe,white,,2018-10-28,22
+6500,2012.0,ford fusion se,excellent,6,gas,90000.0,automatic,sedan,grey,,2018-09-20,94
+3995,2008.0,subaru forester,excellent,4,gas,165000.0,automatic,SUV,white,1.0,2018-12-24,19
+39950,2018.0,chevrolet silverado,excellent,8,gas,18500.0,automatic,truck,,1.0,2018-08-05,16
+26000,2015.0,chevrolet silverado 1500 crew,good,8,gas,92281.0,automatic,pickup,white,1.0,2019-04-02,82
+18700,2017.0,nissan frontier crew cab sv,good,6,gas,40002.0,other,pickup,white,,2018-06-01,44
+10800,,chevrolet colorado,excellent,5,gas,114922.0,automatic,truck,red,1.0,2018-06-23,35
+5500,2004.0,ford explorer,good,6,gas,140355.0,automatic,SUV,white,1.0,2018-09-10,35
+22900,2014.0,ford f150 supercrew cab xlt,good,6,gas,73711.0,automatic,pickup,white,1.0,2019-02-27,141
+26700,2015.0,ford f150 supercrew cab xlt,good,6,gas,48278.0,other,pickup,brown,1.0,2018-09-22,64
+21500,2019.0,nissan frontier crew cab sv,good,6,gas,16168.0,other,pickup,white,,2019-03-29,70
+19700,2017.0,chevrolet camaro lt coupe 2d,good,6,gas,35807.0,other,coupe,black,,2019-03-11,33
+24200,2018.0,chevrolet camaro lt coupe 2d,good,6,gas,,other,coupe,grey,,2018-07-20,57
+22800,2013.0,ford f-350 sd,good,8,diesel,207738.0,automatic,truck,brown,1.0,2018-11-08,62
+28400,2017.0,ford mustang gt coupe 2d,good,8,gas,6665.0,other,coupe,blue,,2018-05-16,46
+29900,2018.0,ford mustang gt coupe 2d,good,8,gas,3827.0,automatic,coupe,yellow,,2019-03-22,48
+22500,2019.0,nissan frontier crew cab sv,good,6,gas,24209.0,other,pickup,,1.0,2019-03-03,73
+24600,2014.0,chevrolet silverado 1500 crew,good,6,gas,85048.0,automatic,pickup,silver,1.0,2018-08-19,96
+23700,,nissan frontier crew cab sv,good,6,gas,12901.0,other,pickup,black,1.0,2018-09-21,8
+21900,2018.0,nissan frontier crew cab sv,good,6,gas,27576.0,other,pickup,,1.0,2018-11-22,58
+25300,,chevrolet camaro lt coupe 2d,good,6,gas,3568.0,other,coupe,,,2018-06-16,34
+4600,2012.0,nissan versa,good,4,gas,146000.0,automatic,sedan,,,2018-06-07,32
+28900,2017.0,ford f150 supercrew cab xlt,good,6,gas,,automatic,pickup,white,1.0,2018-09-18,58
+14800,2016.0,kia sorento,like new,,gas,,automatic,SUV,brown,,2019-02-27,93
+33900,2018.0,chevrolet silverado 1500 crew,good,8,gas,11315.0,other,pickup,white,1.0,2019-03-01,2
+4800,2006.0,honda accord,like new,4,gas,195000.0,automatic,sedan,silver,,2018-12-12,49
+4500,2012.0,chevrolet impala,excellent,6,gas,145000.0,automatic,sedan,white,,2018-10-10,38
+21595,2015.0,chevrolet silverado 1500,excellent,8,gas,92634.0,automatic,truck,black,1.0,2018-11-15,53
+37000,2018.0,chevrolet silverado 1500 crew,good,8,gas,30465.0,other,pickup,white,1.0,2019-01-13,55
+22900,2019.0,nissan frontier crew cab sv,good,6,gas,,other,pickup,blue,1.0,2019-04-15,67
+25900,2012.0,chevrolet silverado 1500 crew,good,,other,,other,pickup,,1.0,2018-08-31,44
+10999,2010.0,ford edge,good,6,gas,98193.0,automatic,SUV,blue,1.0,2018-08-11,78
+2900,2000.0,nissan maxima,good,6,gas,170000.0,automatic,sedan,green,,2018-09-23,12
+2700,2005.0,chevrolet equinox,good,6,gas,150352.0,automatic,SUV,silver,,2019-04-02,49
+2900,2000.0,nissan maxima,good,6,gas,,automatic,sedan,green,,2019-04-09,27
+9500,2009.0,ford f-250,good,8,gas,189490.0,automatic,truck,white,1.0,2018-08-03,6
+4900,2011.0,nissan sentra,good,4,gas,116000.0,automatic,sedan,silver,,2018-11-30,19
+24000,2018.0,nissan frontier crew cab sv,good,6,gas,16295.0,other,pickup,blue,1.0,2018-05-26,30
+18200,2012.0,nissan frontier crew cab sv,good,6,gas,,other,pickup,white,,2018-09-19,30
+28000,2016.0,ford mustang gt coupe 2d,good,,gas,,other,coupe,black,,2018-11-20,28
+24700,2015.0,ford mustang gt coupe 2d,good,8,gas,37270.0,other,coupe,black,,2019-04-16,41
+26900,2014.0,chevrolet silverado 1500 crew,good,8,gas,68607.0,automatic,pickup,black,1.0,2018-07-28,18
+4500,2013.0,nissan altima,excellent,,gas,140000.0,automatic,sedan,silver,,2019-03-29,108
+19500,2014.0,ford f150,excellent,8,gas,116000.0,automatic,truck,grey,1.0,2018-06-26,40
+2000,1993.0,ford f-150,good,8,gas,258225.0,automatic,truck,red,,2019-03-06,34
+13995,2010.0,chevrolet silverado 1500,excellent,8,gas,151442.0,automatic,truck,silver,1.0,2018-12-20,72
+39990,2015.0,chevrolet corvette,like new,8,gas,17340.0,manual,coupe,,,2018-07-14,38
+11995,2012.0,chevrolet suburban,excellent,8,gas,158487.0,automatic,SUV,grey,1.0,2018-11-10,16
+8995,,chevrolet silverado 1500,excellent,8,gas,119726.0,automatic,truck,grey,1.0,2019-03-18,27
+15995,2013.0,jeep wrangler,excellent,6,gas,138806.0,automatic,SUV,black,1.0,2018-09-08,112
+7995,2012.0,chevrolet cruze,excellent,4,gas,81559.0,automatic,sedan,black,,2018-12-16,57
+28250,2017.0,chevrolet silverado 1500,excellent,8,gas,13808.0,automatic,truck,white,1.0,2018-08-17,11
+6995,2004.0,ford expedition,excellent,8,gas,92546.0,automatic,SUV,blue,1.0,2018-05-23,18
+13900,2016.0,dodge grand caravan,excellent,6,gas,62711.0,automatic,van,black,,2019-04-11,37
+28975,2017.0,chevrolet silverado 1500,excellent,8,gas,8354.0,automatic,truck,black,1.0,2019-01-07,13
+14995,2011.0,jeep wrangler,excellent,6,gas,118371.0,automatic,SUV,orange,1.0,2019-01-25,49
+25600,2017.0,ford mustang gt coupe 2d,good,8,gas,42957.0,other,coupe,,,2019-01-24,83
+12990,2011.0,ford expedition,good,8,gas,124775.0,automatic,SUV,custom,1.0,2018-06-11,50
+6300,2010.0,ford taurus,excellent,6,gas,155743.0,automatic,sedan,,,2018-11-01,30
+26400,2016.0,ford mustang gt coupe 2d,good,8,gas,16890.0,other,coupe,white,,2018-05-15,10
+17300,2014.0,chevrolet camaro lt coupe 2d,good,6,gas,27915.0,other,coupe,red,,2019-01-16,25
+26700,2017.0,ford mustang gt coupe 2d,good,8,gas,26192.0,other,coupe,black,,2019-02-14,17
+18975,2012.0,chevrolet silverado 1500,excellent,8,gas,24390.0,automatic,truck,white,,2018-11-15,61
+23300,,nissan frontier crew cab sv,good,,gas,,other,pickup,grey,1.0,2018-07-24,73
+31800,2018.0,chevrolet silverado 1500 crew,good,8,gas,22838.0,automatic,pickup,white,1.0,2019-01-29,29
+3995,1999.0,acura tl,good,6,gas,180000.0,automatic,sedan,black,,2018-06-19,52
+18600,2012.0,ford mustang gt coupe 2d,good,8,gas,96562.0,other,coupe,red,,2018-12-20,14
+21100,2017.0,chevrolet camaro lt coupe 2d,good,,gas,24510.0,other,coupe,red,,2019-04-19,38
+2500,,toyota camry,good,6,gas,150000.0,automatic,sedan,silver,,2018-06-13,68
+22000,,ford f350 super duty,good,8,diesel,163000.0,automatic,truck,,1.0,2019-02-05,38
+3995,2001.0,ford ranger,good,6,gas,102000.0,automatic,truck,brown,,2018-05-27,79
+3650,2012.0,kia soul,excellent,4,gas,,automatic,wagon,white,,2018-07-11,50
+7975,2007.0,gmc sierra,excellent,8,gas,228409.0,automatic,truck,white,,2018-10-27,15
+9950,2008.0,toyota 4runner,excellent,6,gas,207348.0,automatic,SUV,,1.0,2018-10-28,11
+3595,2005.0,chevrolet impala,good,6,gas,147667.0,automatic,sedan,red,,2018-11-12,30
+9850,2008.0,chevrolet silverado 1500,good,8,gas,182225.0,automatic,truck,blue,1.0,2018-08-15,36
+18600,2012.0,ford mustang gt coupe 2d,good,8,gas,96562.0,other,coupe,red,,2018-07-31,59
+21100,2017.0,chevrolet camaro lt coupe 2d,good,,gas,24510.0,other,coupe,red,,2019-03-29,1
+5995,2006.0,ford ranger,good,6,gas,148600.0,automatic,truck,silver,1.0,2018-11-10,35
+6900,2011.0,subaru outback,excellent,6,gas,135445.0,automatic,SUV,,1.0,2018-11-02,57
+8995,2005.0,ram 1500,good,8,gas,,automatic,truck,grey,1.0,2019-03-10,33
+31400,2016.0,chevrolet silverado 1500 crew,good,8,gas,15070.0,automatic,pickup,black,1.0,2019-01-17,64
+24200,2018.0,nissan frontier crew cab sv,good,6,gas,11034.0,other,pickup,blue,1.0,2018-06-29,9
+10990,2006.0,chevrolet silverado 1500,good,,gas,93726.0,automatic,truck,white,1.0,2018-05-17,19
+15950,2015.0,honda cr-v,excellent,4,gas,,other,SUV,black,1.0,2018-09-22,12
+7500,1997.0,ford mustang,good,8,gas,185000.0,manual,coupe,white,,2019-01-05,9
+11950,2003.0,jeep wrangler,excellent,6,gas,97211.0,automatic,SUV,custom,1.0,2018-08-01,15
+16950,2010.0,jeep wrangler,excellent,6,gas,85490.0,other,SUV,red,1.0,2018-12-26,29
+6800,,honda cr-v,excellent,4,gas,186000.0,automatic,SUV,grey,1.0,2018-12-22,25
+6500,2009.0,hyundai santa fe,good,6,gas,98000.0,manual,SUV,,,2019-03-18,27
+3000,,honda accord,good,6,gas,204000.0,automatic,coupe,blue,,2018-05-18,21
+15000,2009.0,toyota tacoma,excellent,6,gas,221000.0,automatic,truck,black,1.0,2019-02-20,30
+52000,2008.0,ford f350 super duty,good,8,diesel,117500.0,automatic,truck,grey,1.0,2018-06-27,24
+10950,2011.0,ford expedition,excellent,8,gas,130390.0,automatic,SUV,,1.0,2018-12-23,33
+23000,2018.0,honda accord,like new,4,gas,15000.0,manual,sedan,,,2018-08-22,37
+3950,2009.0,subaru impreza,excellent,4,gas,137882.0,automatic,hatchback,silver,1.0,2018-08-22,19
+5295,2005.0,ford f-150,good,8,gas,225000.0,automatic,pickup,white,1.0,2018-06-19,15
+6995,2009.0,ford ranger,good,4,gas,,automatic,pickup,white,,2019-03-31,130
+8999,2013.0,ford escape,excellent,4,gas,122964.0,automatic,wagon,,1.0,2018-06-03,31
+5999,2012.0,nissan versa,excellent,4,gas,76737.0,automatic,sedan,silver,,2018-07-31,3
+10997,2014.0,ford escape,excellent,4,gas,,automatic,wagon,,1.0,2018-11-17,10
+10000,2006.0,ford f-150,excellent,8,gas,181000.0,automatic,truck,silver,1.0,2018-07-17,9
+17999,2008.0,gmc sierra 2500hd,excellent,8,diesel,101959.0,automatic,truck,white,1.0,2018-05-06,46
+8499,,nissan rogue,excellent,4,gas,123360.0,automatic,wagon,blue,1.0,2019-03-28,28
+7999,2012.0,nissan rogue,excellent,4,gas,93496.0,automatic,wagon,black,,2018-10-15,29
+15900,,ford escape,excellent,4,gas,19764.0,automatic,SUV,black,1.0,2018-07-03,32
+28200,2012.0,ford f-350 sd,excellent,8,diesel,129000.0,automatic,truck,black,1.0,2018-07-15,30
+2000,2002.0,honda civic lx,good,4,gas,216875.0,automatic,coupe,red,,2018-05-21,47
+22914,2015.0,bmw x5,excellent,6,gas,69686.0,automatic,SUV,white,1.0,2018-08-11,19
+19900,2013.0,ford f-150,excellent,6,gas,79657.0,automatic,truck,silver,1.0,2018-10-30,42
+34900,2017.0,ford f-250 sd,excellent,8,gas,,automatic,truck,white,1.0,2018-11-12,13
+24495,2016.0,ford explorer,excellent,6,gas,50123.0,automatic,SUV,white,1.0,2018-11-17,49
+5300,2010.0,dodge charger,good,8,gas,156000.0,automatic,sedan,white,,2018-07-04,43
+22900,2015.0,gmc sierra 1500,excellent,8,gas,85190.0,automatic,truck,custom,1.0,2018-05-15,24
+14685,2011.0,toyota tacoma,excellent,6,gas,145671.0,automatic,truck,black,1.0,2019-01-03,8
+24869,2015.0,gmc sierra 1500,excellent,8,gas,82056.0,automatic,truck,black,1.0,2019-03-20,23
+5995,2006.0,honda odyssey,excellent,6,gas,,automatic,van,red,,2019-04-10,33
+4999,2005.0,toyota camry le,excellent,4,gas,105000.0,automatic,sedan,silver,,2019-03-01,60
+7800,2012.0,chevrolet traverse,good,6,gas,157000.0,automatic,SUV,blue,1.0,2018-11-30,4
+12500,2009.0,cadillac escalade,excellent,8,gas,159000.0,automatic,SUV,,1.0,2018-10-01,26
+4975,2007.0,honda odyssey,excellent,6,gas,205000.0,automatic,mini-van,brown,,2018-10-28,35
+2795,2003.0,volkswagen jetta,good,4,gas,178950.0,manual,sedan,,,2018-05-20,98
+500,2004.0,toyota corolla,like new,4,gas,,automatic,sedan,blue,,2018-09-17,24
+2800,2006.0,ford escape,excellent,6,gas,,automatic,SUV,white,,2018-05-11,5
+41800,2018.0,chevrolet silverado 3500hd,good,8,gas,148459.0,automatic,truck,,1.0,2019-03-19,11
+10800,2015.0,toyota camry,excellent,4,gas,28150.0,automatic,sedan,black,1.0,2018-09-25,24
+2750,2006.0,honda civic lx,good,4,gas,200.0,manual,sedan,black,,2018-07-06,41
+7995,2008.0,jeep grand cherokee,excellent,6,gas,104613.0,automatic,SUV,silver,1.0,2018-05-23,23
+22500,2013.0,ford f-250 sd,good,8,gas,128415.0,automatic,truck,green,1.0,2019-03-03,32
+9995,2013.0,chrysler town & country,excellent,6,gas,81999.0,automatic,van,,,2019-01-07,71
+6995,2005.0,honda accord,like new,6,gas,45429.0,automatic,sedan,grey,,2018-11-04,53
+11795,2015.0,toyota tacoma,excellent,4,gas,111048.0,automatic,truck,white,,2018-09-30,30
+8795,2014.0,honda civic,excellent,,gas,85452.0,automatic,sedan,grey,,2018-09-11,164
+6995,2011.0,hyundai sonata,excellent,4,gas,117371.0,automatic,sedan,grey,1.0,2019-02-26,20
+6795,2013.0,volkswagen passat,excellent,5,gas,119453.0,automatic,sedan,red,,2018-12-12,19
+6795,2012.0,volkswagen jetta,excellent,5,gas,104310.0,automatic,sedan,white,,2019-03-11,16
+7995,2014.0,chevrolet cruze,excellent,4,gas,120052.0,automatic,sedan,blue,,2018-10-27,27
+25800,2015.0,toyota tacoma,like new,6,gas,49900.0,automatic,pickup,white,1.0,2018-07-24,39
+8595,2010.0,toyota prius,excellent,4,gas,99630.0,automatic,hatchback,white,,2019-02-05,44
+8995,2010.0,toyota prius,excellent,4,gas,74138.0,automatic,hatchback,white,,2018-07-09,38
+7995,2010.0,honda accord,excellent,,gas,90880.0,automatic,sedan,grey,,2018-09-16,3
+7100,2004.0,ford f-150,good,8,gas,121000.0,automatic,truck,,1.0,2019-03-10,23
+6995,2010.0,jeep liberty,excellent,,gas,105771.0,automatic,SUV,brown,1.0,2019-02-05,19
+4795,2007.0,nissan altima,excellent,4,gas,131020.0,automatic,sedan,grey,,2018-10-19,31
+6500,2009.0,ford f-250,good,8,gas,113000.0,automatic,pickup,white,1.0,2018-09-09,19
+22800,2013.0,ford f-350 sd,good,8,diesel,,automatic,truck,brown,1.0,2018-09-27,38
+1500,2001.0,jeep grand cherokee,good,6,gas,185000.0,automatic,SUV,black,1.0,2018-10-15,56
+9799,2017.0,nissan altima,excellent,4,gas,51153.0,automatic,sedan,silver,1.0,2018-06-23,35
+11799,2014.0,chevrolet camaro,excellent,6,gas,50468.0,automatic,coupe,yellow,,2018-12-30,39
+5700,2002.0,chevrolet silverado 1500,good,8,gas,105000.0,automatic,pickup,silver,1.0,2018-06-17,68
+3700,2009.0,nissan rogue,good,4,gas,174902.0,automatic,SUV,black,,2019-03-14,31
+13499,2014.0,ford f150,good,6,gas,,automatic,pickup,,1.0,2019-02-13,20
+24399,2013.0,ram 1500,excellent,,gas,97321.0,automatic,pickup,red,1.0,2019-01-08,43
+11799,2015.0,chevrolet camaro,excellent,6,gas,26881.0,automatic,coupe,red,,2019-02-03,21
+9299,2016.0,nissan altima,excellent,4,gas,47833.0,automatic,sedan,silver,,2019-01-19,75
+3750,2007.0,jeep grand cherokee laredo,fair,6,gas,131800.0,automatic,SUV,grey,1.0,2018-06-29,50
+3800,2012.0,nissan altima,good,4,gas,186576.0,automatic,sedan,black,,2019-01-02,37
+7995,2011.0,subaru forester,good,4,gas,112000.0,automatic,SUV,blue,1.0,2019-02-12,53
+23200,2018.0,chevrolet camaro lt coupe 2d,good,6,gas,7136.0,other,coupe,black,,2018-08-18,25
+5500,1981.0,chevrolet corvette,fair,8,gas,75000.0,automatic,coupe,blue,,2019-01-15,49
+9100,2014.0,kia sorento,good,4,gas,100100.0,automatic,SUV,silver,1.0,2018-08-30,74
+8977,2013.0,kia sorento,excellent,,gas,85415.0,automatic,SUV,silver,,2018-07-25,72
+18675,2015.0,ram 1500,good,8,gas,86115.0,automatic,truck,,1.0,2018-11-11,7
+8675,2012.0,buick enclave,good,6,gas,,automatic,SUV,brown,,2018-05-06,36
+14975,,toyota 4runner,good,6,gas,,automatic,SUV,silver,,2018-05-13,57
+20675,2018.0,ford escape,good,4,gas,,automatic,SUV,black,1.0,2018-09-29,30
+19675,2008.0,gmc sierra 2500hd,good,8,gas,,automatic,truck,grey,1.0,2018-09-22,35
+14995,,chevrolet silverado 1500,good,8,gas,114587.0,automatic,truck,grey,1.0,2018-11-02,11
+13889,2005.0,gmc sierra 2500hd,good,8,gas,95914.0,automatic,truck,custom,1.0,2018-07-13,37
+5000,2011.0,toyota camry le,excellent,4,gas,173000.0,automatic,sedan,white,,2018-06-26,19
+6100,2013.0,ford fusion,good,4,gas,,automatic,sedan,silver,,2018-07-19,80
+3250,2001.0,ford f150,fair,8,gas,296000.0,automatic,truck,black,1.0,2018-12-07,24
+28200,2012.0,ford f-350 sd,excellent,8,diesel,129000.0,automatic,truck,black,1.0,2018-09-26,28
+15900,2016.0,ford escape,excellent,4,gas,19764.0,automatic,SUV,,1.0,2018-12-09,48
+34900,2017.0,ford f-250 sd,excellent,8,gas,,automatic,truck,white,1.0,2018-12-06,56
+22914,2015.0,bmw x5,excellent,6,gas,69686.0,automatic,SUV,white,1.0,2018-07-07,9
+22900,2015.0,gmc sierra 1500,excellent,8,gas,85190.0,automatic,truck,,1.0,2018-08-24,11
+19900,2013.0,ford f-150,excellent,6,gas,79657.0,automatic,truck,silver,1.0,2019-03-01,4
+14685,2011.0,toyota tacoma,excellent,6,gas,,automatic,truck,,1.0,2018-06-21,32
+24869,2015.0,gmc sierra 1500,excellent,8,gas,82056.0,automatic,truck,black,1.0,2018-06-29,22
+22399,2011.0,gmc sierra 2500hd,excellent,8,gas,121047.0,automatic,pickup,,1.0,2018-05-17,66
+9950,2013.0,toyota prius,excellent,,hybrid,101200.0,automatic,hatchback,silver,,2018-08-24,11
+17379,2007.0,jeep wrangler,excellent,6,gas,111921.0,automatic,SUV,,1.0,2018-12-26,50
+5999,2012.0,nissan altima,excellent,4,gas,99000.0,automatic,sedan,black,,2018-12-27,28
+4900,2007.0,toyota rav4,like new,6,gas,,automatic,SUV,blue,,2019-03-17,13
+3995,2013.0,chrysler 200,good,4,gas,,automatic,sedan,black,,2018-09-26,4
+10900,2012.0,toyota tacoma,excellent,4,gas,132000.0,manual,pickup,red,1.0,2018-10-10,46
+6995,2004.0,toyota tundra,good,,gas,224000.0,automatic,truck,,1.0,2018-09-04,33
+3500,2004.0,toyota camry,fair,4,gas,155000.0,automatic,sedan,white,,2018-11-16,33
+41999,2018.0,ram 3500,good,6,diesel,5127.0,automatic,truck,black,,2018-08-03,11
+35999,2015.0,ram 2500,good,6,diesel,157558.0,automatic,truck,grey,1.0,2018-12-13,59
+31999,2011.0,ram 3500,good,6,diesel,148128.0,automatic,truck,,1.0,2018-11-21,64
+28999,2012.0,ram 2500,good,6,diesel,146875.0,automatic,truck,silver,1.0,2018-07-22,51
+32999,2012.0,ram 3500,good,6,diesel,126201.0,automatic,truck,silver,1.0,2018-10-26,58
+7800,2010.0,nissan frontier,excellent,6,gas,160266.0,automatic,truck,red,1.0,2018-08-06,55
+14999,2016.0,honda cr-v,excellent,4,gas,32000.0,automatic,SUV,grey,1.0,2018-08-10,66
+19999,2015.0,gmc sierra,excellent,8,gas,43000.0,automatic,truck,white,1.0,2019-04-01,63
+4999,2008.0,chrysler town & country,excellent,6,gas,129448.0,automatic,mini-van,white,,2018-06-15,13
+3500,2016.0,honda accord,excellent,,gas,30300.0,automatic,sedan,black,,2018-09-21,67
+15600,2016.0,subaru outback,excellent,4,gas,106700.0,automatic,wagon,black,1.0,2018-05-08,40
+4488,2003.0,toyota rav4,excellent,4,gas,,automatic,SUV,silver,1.0,2019-03-18,11
+14995,2016.0,toyota rav4,excellent,4,gas,,automatic,SUV,black,,2018-09-25,109
+2500,2016.0,honda civic,excellent,4,gas,35000.0,automatic,sedan,white,,2018-10-12,8
+18488,2014.0,ford f-150,good,,gas,104906.0,automatic,truck,blue,,2019-02-12,17
+15674,2017.0,chevrolet equinox,good,,gas,51276.0,automatic,SUV,silver,,2019-04-06,39
+14999,2013.0,ford f-150,good,6,gas,52520.0,automatic,truck,white,1.0,2018-05-02,23
+7999,2013.0,ford focus,good,4,gas,127230.0,automatic,sedan,red,,2018-09-28,9
+9877,2010.0,toyota corolla,good,4,gas,153510.0,automatic,sedan,white,,2018-07-06,17
+16999,2003.0,chevrolet silverado 2500hd,good,,gas,238986.0,automatic,truck,white,1.0,2019-02-08,10
+7999,2007.0,honda accord,good,4,gas,,automatic,sedan,,,2018-12-31,43
+8850,2017.0,nissan versa,good,4,gas,31501.0,automatic,sedan,white,,2018-12-28,42
+24900,2016.0,chevrolet silverado 1500,excellent,8,gas,32000.0,automatic,truck,silver,1.0,2019-01-29,5
+3900,2016.0,ford explorer,excellent,6,gas,52000.0,automatic,SUV,blue,,2018-08-18,10
+2500,,nissan rogue,excellent,4,gas,25600.0,automatic,SUV,black,,2018-09-22,53
+32000,2016.0,gmc yukon,good,8,gas,,automatic,SUV,black,1.0,2019-03-19,37
+2700,2016.0,honda civic,excellent,4,gas,27000.0,automatic,sedan,white,,2018-06-20,73
+13500,2012.0,gmc sierra 1500,excellent,8,gas,143000.0,automatic,truck,silver,,2019-02-18,81
+12750,2011.0,gmc sierra 2500hd,good,8,gas,226000.0,automatic,truck,white,1.0,2018-10-28,29
+9500,2015.0,nissan altima,excellent,4,gas,84000.0,automatic,sedan,red,,2019-02-07,34
+6500,2012.0,dodge grand caravan,good,6,gas,119156.0,automatic,mini-van,,,2018-09-11,14
+3000,2016.0,nissan rogue,excellent,4,gas,58000.0,automatic,SUV,blue,,2019-03-04,14
+600,1999.0,toyota camry le,salvage,4,gas,216348.0,automatic,sedan,white,,2019-03-04,23
+2500,2016.0,honda civic,excellent,,gas,46000.0,automatic,sedan,black,,2019-02-17,90
+2900,2016.0,honda civic,excellent,4,gas,18000.0,automatic,sedan,grey,,2018-06-14,13
+5500,2017.0,ford explorer,excellent,6,gas,25000.0,automatic,SUV,grey,1.0,2019-03-01,10
+11900,2005.0,ford f250 super duty,good,8,diesel,119358.0,automatic,truck,blue,,2018-05-27,62
+11745,2011.0,chevrolet silverado 1500,excellent,8,gas,,automatic,truck,white,,2018-10-11,42
+30000,2015.0,jeep wrangler unlimited,excellent,6,gas,13365.0,automatic,SUV,white,1.0,2019-03-28,31
+15250,2011.0,ford f-150,excellent,8,gas,97000.0,automatic,truck,grey,1.0,2019-03-30,37
+2200,1995.0,ford f250 super duty,good,,gas,149963.0,automatic,truck,orange,,2018-05-01,59
+2800,2002.0,honda accord,fair,6,gas,211000.0,automatic,sedan,,,2018-12-10,18
+9700,2000.0,toyota 4runner,excellent,6,gas,200116.0,automatic,SUV,,1.0,2018-11-10,17
+10000,1995.0,chevrolet corvette,good,8,gas,127807.0,automatic,coupe,,,2019-01-08,30
+4500,2009.0,jeep liberty,good,6,gas,171000.0,automatic,SUV,black,1.0,2019-01-23,16
+25000,2009.0,ford f-250 super duty,excellent,8,diesel,,automatic,truck,black,1.0,2018-06-09,39
+11295,2015.0,nissan altima,excellent,4,gas,80148.0,automatic,sedan,,,2018-08-16,35
+500,2004.0,toyota corolla,like new,4,gas,226980.0,automatic,sedan,,,2018-09-19,19
+5900,2007.0,ram 2500,good,8,gas,229000.0,automatic,pickup,white,1.0,2018-07-10,61
+13000,2004.0,chevrolet corvette,good,8,gas,85104.0,automatic,convertible,blue,,2018-10-12,127
+4995,2004.0,honda accord,excellent,,gas,176722.0,automatic,sedan,blue,,2019-02-22,17
+9200,2017.0,nissan sentra,excellent,4,gas,12000.0,automatic,sedan,grey,,2018-12-26,26
+5999,2007.0,chrysler 300,excellent,6,gas,122000.0,automatic,sedan,grey,,2018-12-05,6
+6000,2005.0,subaru outback,excellent,4,gas,148000.0,automatic,wagon,blue,,2018-06-26,47
+5500,2006.0,ford f150,excellent,8,gas,,automatic,truck,white,,2018-05-16,56
+12995,2009.0,chevrolet suburban,excellent,8,gas,157976.0,automatic,SUV,white,1.0,2018-12-17,32
+8000,2003.0,gmc yukon,good,8,gas,,automatic,SUV,grey,1.0,2018-06-08,26
+15800,2009.0,gmc sierra 1500,excellent,8,gas,150000.0,automatic,truck,white,,2018-07-03,36
+4000,2005.0,honda pilot,excellent,6,gas,167000.0,automatic,SUV,red,1.0,2018-05-12,8
+17999,1996.0,chevrolet corvette,excellent,8,gas,30469.0,manual,convertible,,,2018-05-10,59
+19995,2012.0,chevrolet tahoe,good,8,gas,129516.0,automatic,SUV,,1.0,2019-03-28,61
+2999,2003.0,ford focus,good,,gas,,automatic,sedan,red,,2018-11-30,24
+2999,2004.0,volkswagen jetta,good,4,gas,149000.0,manual,sedan,silver,,2018-07-31,15
+1900,1999.0,ford ranger,excellent,6,gas,191135.0,automatic,truck,yellow,1.0,2018-08-02,26
+5999,2002.0,bmw x5,excellent,6,gas,153000.0,automatic,SUV,white,1.0,2018-05-23,82
+6999,2006.0,acura tl,excellent,6,gas,169269.0,automatic,sedan,white,,2018-09-15,28
+8600,2012.0,ford mustang,excellent,6,gas,126000.0,automatic,coupe,black,,2018-06-07,45
+7997,2009.0,gmc yukon,excellent,8,gas,0.0,automatic,SUV,white,1.0,2019-03-16,88
+28000,2017.0,chevrolet silverado,like new,8,gas,53000.0,automatic,truck,white,1.0,2019-01-17,91
+10977,2015.0,nissan rogue,excellent,4,gas,,automatic,SUV,grey,,2019-02-16,77
+25000,2015.0,chevrolet silverado,good,8,gas,150000.0,automatic,truck,white,1.0,2019-03-08,75
+4000,2002.0,ford escape,good,6,gas,98000.0,automatic,SUV,silver,1.0,2019-01-27,11
+16600,1975.0,chevrolet corvette,excellent,8,gas,75000.0,manual,coupe,,,2019-03-09,69
+18400,1975.0,chevrolet corvette,excellent,8,gas,18000.0,automatic,coupe,orange,,2019-01-06,41
+12500,2017.0,subaru impreza,like new,4,gas,25000.0,automatic,wagon,grey,1.0,2019-02-18,78
+44900,2017.0,gmc sierra 2500hd,good,8,diesel,23455.0,automatic,pickup,,1.0,2018-06-10,89
+8900,,ford fusion,excellent,4,gas,40062.0,automatic,sedan,white,1.0,2018-06-15,30
+5900,2013.0,nissan altima,good,4,gas,57075.0,automatic,sedan,white,,2019-02-22,44
+8875,2012.0,toyota prius,good,4,gas,129843.0,automatic,hatchback,,,2018-12-28,60
+18875,2015.0,ford explorer,good,6,gas,83823.0,automatic,SUV,white,,2019-01-27,13
+6975,2018.0,nissan sentra,good,4,gas,34611.0,automatic,sedan,,,2018-09-14,30
+34275,2018.0,jeep wrangler,good,6,gas,27403.0,automatic,SUV,black,1.0,2018-12-23,11
+11675,2012.0,gmc acadia,good,6,gas,113417.0,automatic,SUV,white,1.0,2018-11-16,39
+24995,2016.0,subaru outback,good,6,gas,32889.0,automatic,SUV,grey,1.0,2018-11-06,48
+11375,2012.0,toyota sienna,good,6,gas,135907.0,automatic,van,silver,,2018-10-03,9
+4700,,kia soul,good,,gas,,manual,sedan,white,,2019-01-14,50
+29000,2015.0,toyota tacoma,excellent,,gas,64000.0,automatic,truck,,1.0,2018-08-13,48
+15900,2011.0,jeep wrangler,good,6,gas,163943.0,automatic,SUV,black,1.0,2018-07-04,61
+14700,2017.0,nissan altima,excellent,4,gas,,automatic,sedan,black,,2019-04-03,15
+4975,2010.0,ford explorer,good,6,gas,55486.0,automatic,SUV,blue,1.0,2018-08-09,108
+5500,2001.0,nissan frontier,good,6,gas,125000.0,manual,pickup,black,1.0,2019-01-20,11
+8950,2011.0,toyota camry,good,6,gas,,automatic,sedan,black,,2019-01-23,40
+19500,2010.0,ford f-150,good,8,gas,64200.0,automatic,truck,custom,1.0,2019-01-16,52
+24998,2006.0,chevrolet silverado 2500hd,excellent,8,diesel,181787.0,automatic,truck,black,1.0,2019-04-05,94
+6995,2011.0,nissan rogue,excellent,4,gas,118802.0,automatic,SUV,blue,1.0,2018-11-11,23
+5995,2014.0,ford focus,excellent,4,gas,87654.0,automatic,hatchback,,,2018-06-22,44
+5495,2005.0,honda cr-v,good,4,gas,,automatic,SUV,silver,,2019-03-30,114
+5495,2009.0,honda accord,good,4,gas,118791.0,automatic,sedan,black,,2018-11-09,114
+9500,,nissan maxima,like new,6,gas,105000.0,automatic,sedan,white,,2018-08-10,42
+6500,1996.0,chevrolet corvette,good,8,gas,114300.0,automatic,coupe,red,,2018-12-13,55
+27995,2017.0,chevrolet silverado 1500,excellent,8,gas,72965.0,automatic,truck,black,1.0,2018-07-23,42
+11995,2005.0,toyota tacoma,excellent,,gas,167523.0,manual,truck,,1.0,2018-06-09,44
+8995,2012.0,honda accord,excellent,4,gas,112713.0,automatic,sedan,red,,2018-10-30,25
+10995,2007.0,chevrolet tahoe,good,8,gas,162999.0,automatic,SUV,grey,1.0,2018-11-09,24
+11995,2012.0,chevrolet suburban,good,8,gas,163100.0,automatic,SUV,,1.0,2018-05-06,35
+19500,2014.0,ford f-150,excellent,6,gas,95000.0,automatic,truck,blue,1.0,2018-09-06,84
+8600,2013.0,kia sorento,good,4,gas,110367.0,automatic,SUV,blue,1.0,2018-10-12,7
+5995,2004.0,bmw x5,excellent,6,gas,,automatic,SUV,,1.0,2018-12-08,13
+8290,2011.0,hyundai sonata,excellent,4,gas,66501.0,automatic,sedan,silver,,2018-12-07,34
+8950,2011.0,toyota camry,good,4,gas,133018.0,automatic,sedan,red,,2018-07-17,79
+6995,2012.0,dodge grand caravan,good,6,gas,160501.0,automatic,mini-van,black,,2019-02-07,22
+13990,2013.0,ram 1500,excellent,8,gas,,automatic,truck,blue,1.0,2018-10-11,27
+14995,,chevrolet camaro,excellent,8,gas,95000.0,automatic,coupe,,,2018-06-29,15
+14900,2008.0,jeep wrangler,good,6,gas,149167.0,automatic,SUV,custom,1.0,2019-01-06,18
+4800,2004.0,toyota sienna,excellent,6,gas,143000.0,automatic,van,silver,,2018-06-02,17
+22975,2012.0,ram 2500,excellent,6,diesel,119546.0,automatic,pickup,white,1.0,2019-01-24,34
+9500,2005.0,jeep wrangler,excellent,6,gas,151000.0,automatic,SUV,silver,1.0,2019-03-18,32
+20000,2016.0,ram 1500,excellent,8,gas,,automatic,truck,blue,,2018-08-13,25
+5950,2015.0,ford focus,like new,4,gas,36000.0,automatic,hatchback,silver,,2018-08-23,110
+2700,2000.0,ford mustang,good,6,gas,140000.0,manual,coupe,red,,2019-02-15,16
+1,2014.0,chevrolet camaro,excellent,6,gas,71310.0,automatic,coupe,,,2018-07-14,29
+288,2018.0,nissan altima,excellent,4,gas,40277.0,automatic,sedan,silver,,2018-10-19,37
+11500,2009.0,chevrolet silverado 2500hd,good,,gas,170000.0,automatic,truck,,1.0,2018-08-05,27
+700,2000.0,ford focus,fair,4,gas,221000.0,manual,sedan,blue,,2018-05-18,38
+5725,2004.0,toyota corolla,good,4,gas,103889.0,automatic,sedan,silver,,2018-08-06,77
+5890,2004.0,chevrolet suburban,good,8,gas,136801.0,automatic,SUV,blue,,2018-11-01,59
+22975,,ram 2500,excellent,6,diesel,119546.0,automatic,pickup,white,1.0,2019-02-01,9
+9950,2009.0,bmw x5,excellent,6,gas,105621.0,automatic,SUV,silver,1.0,2018-11-12,30
+3150,2003.0,gmc sierra 1500,good,8,gas,163000.0,automatic,pickup,red,,2019-02-08,16
+7995,2008.0,chevrolet silverado,good,6,gas,146000.0,automatic,pickup,white,,2019-02-26,140
+5950,2007.0,honda accord,excellent,4,gas,95804.0,other,sedan,,,2019-02-27,4
+8900,2015.0,ford explorer,good,6,gas,,automatic,SUV,black,1.0,2018-06-06,96
+21900,2017.0,jeep wrangler unlimited,good,6,gas,37873.0,manual,SUV,blue,1.0,2018-06-07,15
+4998,,toyota corolla,good,,gas,44442.0,automatic,sedan,grey,,2019-04-19,12
+4975,2014.0,toyota corolla,good,4,gas,86722.0,manual,sedan,silver,,2019-01-29,34
+3995,2011.0,nissan versa,good,4,gas,98783.0,manual,sedan,black,,2018-09-21,18
+4995,2013.0,hyundai elantra,good,4,gas,65557.0,automatic,sedan,grey,,2019-03-01,8
+14900,2017.0,nissan frontier,good,6,gas,25462.0,automatic,pickup,grey,1.0,2018-09-01,30
+4750,2011.0,chrysler 200,good,6,gas,42446.0,automatic,sedan,blue,,2018-12-16,34
+6995,2011.0,toyota sienna,good,4,gas,124200.0,automatic,mini-van,,,2018-06-21,12
+7850,2016.0,dodge grand caravan,good,6,gas,56635.0,automatic,mini-van,grey,,2018-05-31,6
+12900,2017.0,nissan frontier,good,6,gas,34096.0,automatic,pickup,black,1.0,2019-03-01,9
+4995,2006.0,chrysler 300,good,6,gas,160270.0,automatic,sedan,,,2019-04-11,8
+14995,2014.0,chrysler town & country,good,6,gas,67586.0,automatic,mini-van,,,2018-11-19,51
+8950,,ford focus se,excellent,4,gas,63380.0,automatic,sedan,white,,2018-08-08,36
+8995,2014.0,chevrolet equinox,excellent,6,gas,178490.0,automatic,SUV,silver,1.0,2019-01-10,6
+14200,2009.0,jeep wrangler,good,8,gas,,automatic,SUV,,1.0,2018-08-07,15
+5000,2008.0,volkswagen passat,excellent,4,gas,91600.0,automatic,sedan,silver,,2018-12-25,22
+7995,2012.0,kia soul,good,4,gas,69910.0,automatic,sedan,white,,2018-07-29,12
+47995,2018.0,jeep wrangler unlimited,good,6,gas,22824.0,manual,SUV,black,1.0,2018-05-07,21
+14813,2016.0,toyota corolla,good,4,gas,65139.0,automatic,sedan,black,,2018-05-29,6
+12599,2011.0,ford edge,good,6,gas,,automatic,sedan,silver,1.0,2019-02-20,11
+19999,2012.0,ram 1500,excellent,8,gas,,automatic,pickup,silver,1.0,2019-01-25,31
+16499,2014.0,jeep cherokee,excellent,6,gas,117357.0,automatic,SUV,blue,1.0,2019-03-23,27
+1000,2008.0,ford f150,salvage,8,gas,285000.0,automatic,pickup,white,,2018-10-19,19
+11500,2011.0,chevrolet silverado 1500,good,8,gas,,automatic,pickup,blue,,2019-01-05,23
+9495,2016.0,kia soul,excellent,4,gas,108761.0,manual,sedan,grey,,2018-07-10,67
+4675,2007.0,toyota prius,good,4,hybrid,213211.0,automatic,hatchback,custom,,2018-12-26,7
+2025,,chevrolet tahoe,good,8,gas,151000.0,automatic,SUV,,1.0,2018-10-24,31
+11000,2012.0,ford f-150,good,,gas,,automatic,truck,white,1.0,2018-09-11,21
+13500,2004.0,gmc sierra 2500hd,excellent,8,gas,177000.0,automatic,truck,grey,1.0,2018-10-09,37
+4000,1996.0,ram 2500,good,,gas,170000.0,automatic,pickup,,1.0,2018-11-21,24
+5500,2005.0,ram 2500,good,8,gas,211000.0,automatic,pickup,white,1.0,2019-02-07,39
+14088,2014.0,ford mustang,good,6,gas,52779.0,manual,coupe,grey,,2018-10-23,73
+4995,2001.0,subaru forester,excellent,4,gas,109021.0,automatic,SUV,grey,1.0,2019-04-06,53
+3995,2006.0,volkswagen jetta,excellent,4,diesel,271914.0,manual,sedan,grey,,2018-07-03,7
+8995,2009.0,buick enclave,excellent,6,gas,124567.0,automatic,SUV,purple,1.0,2018-06-10,25
+14788,2016.0,nissan sentra,good,4,gas,,automatic,sedan,silver,,2018-10-22,28
+9988,2014.0,chevrolet cruze,good,4,gas,75716.0,automatic,sedan,blue,,2018-06-03,33
+4250,2008.0,honda odyssey,good,6,gas,222235.0,automatic,mini-van,white,,2018-08-14,33
+6000,,chevrolet corvette,good,8,gas,96500.0,manual,coupe,white,,2019-03-01,54
+3995,2001.0,bmw x5,excellent,8,gas,190108.0,automatic,SUV,white,1.0,2019-02-27,60
+18000,2006.0,ram 3500,good,6,diesel,169847.0,automatic,truck,silver,1.0,2019-04-14,69
+1500,2001.0,ford f-150,fair,8,gas,,automatic,pickup,red,1.0,2018-06-30,37
+4750,2010.0,honda civic,excellent,4,gas,149000.0,automatic,sedan,brown,,2018-06-02,104
+8990,2016.0,nissan rogue,excellent,4,gas,121635.0,automatic,SUV,grey,,2018-12-14,1
+27000,2015.0,ram 2500,excellent,8,gas,62500.0,automatic,truck,blue,1.0,2019-04-03,120
+4290,2005.0,subaru outback,good,4,gas,,automatic,hatchback,silver,1.0,2018-12-18,81
+7500,2007.0,chevrolet suburban,good,8,gas,251285.0,automatic,SUV,,1.0,2018-12-19,34
+24200,2019.0,chevrolet camaro lt coupe 2d,good,6,gas,11438.0,other,coupe,grey,,2019-04-09,39
+14900,2005.0,ford f-250,excellent,8,gas,79355.0,automatic,pickup,,1.0,2018-05-09,101
+5000,2000.0,chevrolet tahoe,good,8,gas,,automatic,SUV,silver,1.0,2018-11-20,20
+6495,2002.0,toyota 4runner,excellent,6,gas,250398.0,automatic,SUV,,1.0,2018-05-20,16
+29667,2013.0,ford f-150,excellent,8,gas,41350.0,automatic,pickup,black,1.0,2019-03-04,15
+3800,2002.0,gmc yukon,good,8,gas,202000.0,automatic,SUV,,1.0,2019-03-02,23
+34000,2016.0,chevrolet camaro,new,8,gas,3396.0,automatic,coupe,red,,2018-12-17,14
+21900,2013.0,ford f-250 sd,good,6,diesel,243000.0,automatic,truck,white,1.0,2018-06-14,5
+8250,,chevrolet silverado 1500,good,8,gas,177000.0,automatic,pickup,white,1.0,2019-01-05,20
+38000,2016.0,ford f250,excellent,,diesel,88100.0,automatic,truck,silver,1.0,2018-08-20,6
+18998,2011.0,ram 3500,good,6,diesel,245000.0,automatic,pickup,red,1.0,2019-03-25,23
+6990,2012.0,dodge grand caravan,excellent,6,gas,93198.0,automatic,mini-van,red,,2019-02-28,29
+20500,2016.0,ram 1500,excellent,8,gas,,automatic,pickup,white,1.0,2018-10-06,97
+13900,2009.0,gmc sierra 1500,good,,gas,123000.0,automatic,truck,silver,1.0,2018-10-30,9
+26900,2015.0,toyota tacoma,excellent,6,gas,,automatic,pickup,silver,1.0,2018-05-08,4
+9595,2008.0,jeep wrangler,like new,6,gas,,manual,truck,blue,,2018-05-22,66
+4695,2007.0,honda accord,excellent,4,gas,140000.0,automatic,coupe,silver,,2018-10-19,17
+13500,2016.0,hyundai sonata,good,6,gas,67000.0,automatic,sedan,blue,,2018-09-29,6
+14500,,ford f-250 sd,good,8,gas,185843.0,automatic,truck,black,1.0,2018-05-12,33
+3900,2008.0,toyota corolla,excellent,4,gas,,automatic,sedan,brown,,2018-07-23,58
+30900,2013.0,gmc sierra 2500hd,good,8,diesel,105808.0,automatic,truck,white,1.0,2018-11-18,51
+2900,2008.0,nissan sentra,good,4,gas,159000.0,automatic,sedan,white,,2018-07-13,26
+3500,2008.0,ford explorer,like new,6,gas,,automatic,SUV,white,1.0,2018-07-15,109
+11995,2009.0,chevrolet silverado 1500,good,8,gas,142498.0,automatic,pickup,grey,1.0,2019-01-29,28
+10495,2013.0,toyota camry,excellent,4,gas,111337.0,automatic,other,grey,,2019-01-15,17
+8995,2006.0,dodge dakota,like new,6,gas,50000.0,automatic,truck,black,,2018-08-29,24
+21195,2014.0,chevrolet silverado 1500,excellent,8,other,,automatic,pickup,red,1.0,2018-08-08,12
+8995,2008.0,dodge dakota,like new,6,gas,,automatic,truck,,,2018-07-09,94
+6000,,toyota prius,excellent,4,hybrid,142451.0,automatic,hatchback,white,,2018-07-05,18
+10995,2013.0,honda cr-v,excellent,4,gas,139857.0,automatic,SUV,brown,,2019-04-07,20
+6995,2011.0,honda civic lx,excellent,4,gas,,automatic,sedan,grey,,2018-05-01,17
+2500,2001.0,jeep grand cherokee,good,6,gas,242688.0,automatic,SUV,,1.0,2018-11-22,49
+2650,2006.0,nissan altima,good,4,gas,104000.0,automatic,sedan,brown,,2018-08-30,32
+2700,2007.0,ford focus,excellent,4,gas,140000.0,automatic,wagon,brown,,2019-02-16,36
+4000,2008.0,toyota camry,good,4,gas,173000.0,automatic,sedan,blue,,2019-03-02,12
+14900,2014.0,jeep grand cherokee laredo,good,6,gas,30235.0,automatic,SUV,brown,1.0,2018-07-22,49
+6150,2005.0,ford explorer,good,8,gas,111850.0,automatic,SUV,,1.0,2018-05-08,33
+6300,2003.0,toyota rav4,excellent,4,gas,107.0,automatic,SUV,red,1.0,2018-09-16,24
+3495,2009.0,dodge grand caravan,good,6,gas,187000.0,automatic,mini-van,green,,2019-03-06,22
+25000,2010.0,ram 3500,good,6,diesel,212762.0,automatic,truck,silver,1.0,2018-06-09,11
+19999,2007.0,ram 3500,good,,diesel,172318.0,automatic,truck,white,1.0,2019-04-12,35
+32000,2017.0,chevrolet silverado,like new,8,gas,29613.0,automatic,truck,white,1.0,2019-04-08,74
+8500,2000.0,gmc sierra 1500,good,8,gas,161555.0,automatic,truck,,1.0,2018-08-08,63
+4900,2007.0,ford f-150,good,8,gas,,automatic,pickup,grey,1.0,2018-11-24,32
+2500,2012.0,nissan altima,fair,4,gas,81000.0,automatic,sedan,silver,,2018-12-16,18
+7995,2012.0,nissan altima,good,4,gas,119000.0,automatic,sedan,black,,2018-08-12,48
+3900,2008.0,ford escape,good,4,gas,137.0,automatic,SUV,,,2018-08-02,59
+5995,2006.0,ford f250 super duty,excellent,8,gas,180000.0,automatic,truck,red,,2018-11-02,23
+16995,2015.0,jeep wrangler,like new,6,gas,120000.0,automatic,truck,,1.0,2019-04-13,7
+5495,2011.0,subaru impreza,like new,,gas,128000.0,manual,sedan,silver,1.0,2018-10-16,47
+4200,2007.0,toyota camry,good,4,gas,,automatic,sedan,grey,,2018-07-21,18
+9990,2014.0,ford mustang,excellent,6,gas,79435.0,automatic,coupe,black,,2018-08-26,28
+21999,2005.0,ram 2500,good,6,diesel,99784.0,automatic,truck,black,1.0,2018-10-09,44
+12495,2018.0,ford fusion,excellent,4,gas,45694.0,automatic,other,grey,,2018-06-26,35
+2500,2003.0,chevrolet silverado,good,,gas,240000.0,automatic,pickup,,1.0,2018-12-01,22
+5500,2012.0,nissan frontier,salvage,6,gas,120000.0,automatic,truck,white,1.0,2018-05-20,9
+3700,2003.0,ford explorer,good,,gas,166479.0,automatic,truck,,1.0,2019-04-19,76
+6995,2010.0,honda accord,good,4,gas,,automatic,sedan,black,,2019-02-10,25
+6995,2013.0,ford focus,good,4,gas,85742.0,automatic,hatchback,white,,2018-12-16,24
+16900,2013.0,ford explorer,good,6,gas,75239.0,automatic,SUV,,1.0,2019-02-11,42
+4025,2008.0,toyota camry,good,4,gas,,automatic,sedan,custom,,2018-08-04,29
+9800,2015.0,honda civic,excellent,4,gas,15000.0,automatic,sedan,black,,2018-07-06,61
+3800,2010.0,ford fusion,excellent,4,gas,170000.0,automatic,sedan,silver,,2019-01-25,28
+19988,2011.0,jeep wrangler,good,6,gas,116049.0,manual,SUV,white,1.0,2018-10-26,13
+4500,,honda accord,good,6,gas,197023.0,automatic,sedan,white,,2018-06-05,23
+11480,2013.0,chevrolet silverado 1500,good,8,gas,200557.0,automatic,truck,,1.0,2018-07-11,20
+6200,2011.0,honda civic,good,4,gas,,automatic,sedan,grey,,2018-05-07,64
+5400,2008.0,honda civic,good,4,gas,125490.0,automatic,sedan,silver,,2018-11-03,61
+19988,2010.0,gmc sierra 1500,good,8,gas,183917.0,automatic,truck,black,1.0,2019-02-16,54
+2800,2007.0,hyundai sonata,good,4,gas,,automatic,sedan,blue,,2018-10-11,42
+6000,2015.0,nissan versa,excellent,4,gas,41223.0,manual,sedan,black,,2019-02-12,92
+4800,2013.0,chevrolet cruze,good,4,gas,158074.0,automatic,sedan,black,,2018-09-26,23
+46988,2018.0,ford f-250 sd,good,8,gas,18312.0,automatic,truck,white,1.0,2018-07-08,16
+15995,2015.0,chevrolet camaro,excellent,6,gas,69683.0,automatic,coupe,grey,,2019-04-09,59
+3499,2010.0,toyota camry,good,4,gas,227456.0,automatic,sedan,red,,2019-02-27,49
+12900,2017.0,nissan altima,good,4,gas,45096.0,automatic,sedan,silver,,2018-12-20,80
+5600,2011.0,chevrolet impala,good,6,gas,93209.0,automatic,sedan,,,2018-10-28,9
+4500,2011.0,chevrolet cruze,good,4,gas,113893.0,manual,sedan,silver,,2019-02-24,22
+13990,2006.0,chevrolet silverado 2500hd,excellent,8,diesel,175192.0,automatic,pickup,grey,1.0,2018-05-08,27
+9700,2004.0,chevrolet silverado 2500hd,excellent,8,gas,147888.0,automatic,truck,blue,1.0,2018-05-20,49
+19988,2012.0,gmc sierra 1500,good,8,gas,72314.0,automatic,truck,,,2018-05-01,80
+35988,2016.0,ford f-350 sd,good,8,diesel,182079.0,automatic,truck,black,1.0,2018-12-31,34
+3995,2000.0,ford f-150,good,6,gas,142000.0,manual,truck,red,,2018-09-04,35
+5995,2006.0,ford f-150,good,6,gas,,automatic,pickup,white,,2019-02-21,49
+35000,2013.0,chevrolet silverado,good,8,diesel,85000.0,automatic,truck,white,1.0,2018-09-14,17
+7800,1997.0,toyota tacoma,good,6,gas,212234.0,automatic,truck,white,1.0,2018-06-28,89
+20000,2008.0,chrysler town & country,excellent,6,gas,73561.0,automatic,mini-van,blue,,2018-12-17,36
+17995,2017.0,ford focus,good,4,gas,,manual,hatchback,white,,2018-10-10,34
+7995,2007.0,ford mustang,good,6,gas,115136.0,automatic,coupe,white,,2019-02-22,13
+2000,2007.0,jeep liberty,fair,8,gas,128000.0,automatic,SUV,red,1.0,2018-10-13,11
+8990,2008.0,chevrolet colorado,excellent,5,gas,120477.0,automatic,pickup,black,1.0,2018-08-07,78
+18900,2013.0,chevrolet silverado,excellent,,gas,158353.0,automatic,truck,blue,1.0,2018-06-05,7
+12900,2012.0,chevrolet silverado,excellent,,gas,154029.0,automatic,truck,silver,,2018-06-03,58
+7900,,gmc sierra,good,8,gas,199000.0,automatic,pickup,blue,1.0,2019-03-06,29
+9900,2018.0,nissan versa,excellent,4,gas,,automatic,sedan,silver,,2019-01-03,56
+17800,2015.0,chevrolet silverado,excellent,8,gas,159105.0,automatic,truck,white,,2019-03-05,61
+7800,2007.0,toyota 4runner,like new,6,gas,,automatic,SUV,black,1.0,2019-01-27,30
+13600,2015.0,chevrolet colorado,excellent,4,gas,106530.0,automatic,truck,white,,2018-08-20,56
+19900,2011.0,gmc yukon,excellent,8,gas,82563.0,automatic,SUV,white,1.0,2019-03-11,30
+11900,2011.0,ford ranger,excellent,6,gas,116849.0,automatic,truck,white,,2018-10-27,21
+6500,2007.0,chevrolet colorado,excellent,5,gas,45180.0,automatic,truck,white,,2019-01-20,10
+13900,2013.0,jeep grand cherokee,excellent,8,gas,,automatic,SUV,,1.0,2018-11-09,22
+13900,2011.0,ford ranger,excellent,6,gas,90157.0,automatic,truck,,,2018-08-29,38
+6900,,toyota 4runner,excellent,8,gas,218629.0,automatic,SUV,silver,,2018-11-30,76
+10700,2007.0,chevrolet silverado 1500,excellent,8,gas,170304.0,automatic,truck,red,1.0,2019-01-20,48
+7900,2001.0,jeep wrangler,excellent,4,gas,231089.0,manual,SUV,yellow,1.0,2018-11-28,128
+7490,2010.0,ford mustang,excellent,6,gas,108509.0,automatic,coupe,red,,2018-08-01,15
+7900,2015.0,volkswagen jetta,like new,4,gas,82000.0,automatic,sedan,black,1.0,2019-01-17,12
+13695,2011.0,chevrolet camaro,excellent,6,gas,124964.0,automatic,coupe,black,,2019-02-25,110
+26000,2016.0,chevrolet silverado 2500hd,like new,8,gas,,automatic,truck,white,,2018-06-22,28
+22495,2017.0,toyota tacoma,like new,4,gas,17776.0,automatic,truck,black,,2018-09-09,30
+12494,2011.0,honda cr-v,good,4,gas,,automatic,SUV,,1.0,2018-12-06,79
+13990,2009.0,chevrolet silverado 1500,good,8,gas,,automatic,truck,silver,1.0,2018-08-03,113
+23955,2015.0,chevrolet silverado 2500hd,excellent,,gas,80425.0,automatic,truck,white,1.0,2018-12-18,21
+6500,1998.0,jeep wrangler,excellent,4,gas,94000.0,automatic,SUV,white,1.0,2018-07-03,20
+27995,2017.0,ford f250,excellent,8,gas,103366.0,automatic,truck,,1.0,2018-12-10,29
+18995,2014.0,chevrolet tahoe,excellent,8,gas,119424.0,automatic,SUV,black,,2018-12-17,10
+7500,2000.0,jeep wrangler,good,6,gas,185000.0,automatic,SUV,,,2018-05-18,18
+6500,2008.0,toyota corolla,excellent,4,gas,101887.0,automatic,sedan,red,,2018-07-15,26
+25495,2017.0,chevrolet silverado,excellent,6,gas,89884.0,automatic,truck,white,1.0,2019-02-26,10
+14995,2007.0,chevrolet silverado 2500hd,good,8,gas,100064.0,automatic,pickup,black,1.0,2018-08-19,11
+7900,2012.0,honda civic lx,excellent,4,gas,99084.0,automatic,sedan,white,,2018-10-29,61
+26000,,toyota rav4,like new,4,gas,,automatic,SUV,,,2018-08-09,29
+4900,2010.0,ford escape,excellent,6,gas,125000.0,automatic,SUV,blue,1.0,2019-03-22,36
+16995,2017.0,ford explorer,excellent,6,gas,,automatic,other,black,1.0,2018-06-16,54
+8500,2014.0,nissan frontier,excellent,4,gas,,manual,pickup,silver,,2018-07-16,16
+10500,2010.0,gmc sierra,good,,gas,148000.0,automatic,pickup,blue,1.0,2018-12-10,11
+12995,2013.0,chevrolet suburban,excellent,8,gas,187356.0,automatic,SUV,silver,1.0,2018-05-21,21
+15995,2013.0,ford f250,excellent,8,gas,148000.0,automatic,truck,white,,2018-10-04,23
+3500,2004.0,nissan maxima,like new,6,gas,132000.0,automatic,sedan,white,,2019-03-16,26
+7900,2008.0,toyota highlander,excellent,6,gas,114720.0,automatic,SUV,silver,,2018-09-21,129
+3500,2002.0,gmc sierra 1500,fair,8,gas,205000.0,automatic,pickup,,1.0,2018-05-06,65
+17500,2013.0,ford f-150,excellent,6,gas,,auto
